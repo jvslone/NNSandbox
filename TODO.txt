@@ -1,6 +1,0 @@
-Add in urls to datasets from both github and kaggle
-Add a readme
-Add hists to data explore ###########
-Add doc links for all imported methods, and pytorch in general
-2) format times
-1) avg time left across all folds, all time stats across all folds
