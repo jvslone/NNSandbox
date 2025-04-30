@@ -16,7 +16,7 @@ The exact structure of the network (i.e. the number of layers and the number of 
 * Batch Size (mostly unimportant)
 * What loss function to use
 * etc...
-* 
+
 Here are some useful links:
 
 - [PyTorch Activation Functions](https://pytorch.org/docs/stable/nn.html#non-linear-activations-weighted-sum-nonlinearity)
