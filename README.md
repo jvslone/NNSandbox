@@ -1,4 +1,4 @@
-# **If you use this code as the basis for any of the assignment questions, you must both cite it and include a text paragraph describing how it works (i.e. breakdown the process of training a neural network, be somewhat detailed)**
+# **If you use this code as the basis for any of the assignment questions, you must both cite it and include a text paragraph describing how it works (i.e. breakdown the process of training a neural network, be somewhat detailed). This only applies if you directly copy the code as a base, not if you just look at it to get an idea of what to do.**
 
 The Code for the models can be found in the 'Models' folder. For a bit of a view of the datasets, look in the 'DataExploration' folder.
 
