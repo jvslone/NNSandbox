@@ -1,3 +1,5 @@
+**If you use this code as the basis for any of the assignment questions, you must both cite it and include a text paragraph describing how it works (i.e. breakdown the process of training a neural network, be somewhat detailed)**
+
 The Code for the models can be found in the 'Models' folder. For a bit of a view of the datasets, look in the 'DataExploration' folder.
 
 The exact structure of the network (i.e. the number of layers and the number of neurons in each layer, etc...) is purposely made to be suboptimal as these are for you to determine. A list of things to tune can be found below: 
